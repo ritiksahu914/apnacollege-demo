@@ -1,2 +1,2 @@
 # apnacollege-demo
-this is my learning git repositories
+this is my learning git repositories and i am writing my second commit
